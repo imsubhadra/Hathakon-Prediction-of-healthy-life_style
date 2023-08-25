@@ -1,2 +1,2 @@
 # Hackathon-Prediction-of-healthy-life_style
-capstone hackathon project
+capstone hackathon project.
